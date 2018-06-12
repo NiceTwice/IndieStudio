@@ -1,0 +1,56 @@
+material AxeCitadel_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture axe_2h_icecrownraid_e_01alt.tga -1
+			}
+		}
+	}
+}
+material AxeCitadel_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture axe_2h_icecrownraid_e_01alt.tga -1
+			}
+		}
+	}
+}
+material AxeCitadel_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture axe_2h_icecrownraid_e_01alt.tga -1
+			}
+		}
+	}
+}
+material AxeCitadel_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture axe_2h_icecrownraid_e_01alt.tga -1
+			}
+		}
+	}
+}

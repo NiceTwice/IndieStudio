@@ -1,0 +1,150 @@
+<skeleton>
+	<bones>
+		<bone id="0" name="0">
+			<position x="-0.000000" y="0.000000" z="0.006323" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="1" name="1">
+			<position x="1.010404" y="0.047229" z="-0.087916" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="2" name="2">
+			<position x="1.010404" y="0.044692" z="0.125669" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="3" name="3">
+			<position x="-1.036589" y="-0.071549" z="0.002607" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="4" name="4">
+			<position x="0.788351" y="-0.070816" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="5" name="5">
+			<position x="-1.248731" y="-0.102092" z="0.030967" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="6" name="6">
+			<position x="0.677097" y="0.312988" z="0.000874" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="7" name="7">
+			<position x="0.640332" y="-0.185452" z="0.000874" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="8" name="8">
+			<position x="1.055673" y="0.335099" z="0.000874" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="9" name="9">
+			<position x="1.108568" y="-0.219903" z="0.000874" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="10" name="10">
+			<position x="1.279943" y="0.048812" z="0.000874" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="11" name="11">
+			<position x="1.316902" y="0.041302" z="0.004917" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="12" name="12">
+			<position x="0.424956" y="0.024287" z="0.004917" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+	</bones>
+	<bonehierarchy>
+	</bonehierarchy>
+	<animations>
+		<animation name="Stand" length="0.333000">
+			<tracks>
+				<track bone="1">
+					<keyframes>
+						<keyframe time="0.000000">
+						</keyframe>
+						<keyframe time="0.133000">
+						</keyframe>
+						<keyframe time="0.267000">
+						</keyframe>
+						<keyframe time="0.500000">
+						</keyframe>
+						<keyframe time="0.633000">
+						</keyframe>
+						<keyframe time="0.867000">
+						</keyframe>
+						<keyframe time="1.033000">
+						</keyframe>
+						<keyframe time="1.167000">
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="2">
+					<keyframes>
+						<keyframe time="0.000000">
+						</keyframe>
+						<keyframe time="0.133000">
+						</keyframe>
+						<keyframe time="0.267000">
+						</keyframe>
+						<keyframe time="0.500000">
+						</keyframe>
+						<keyframe time="0.633000">
+						</keyframe>
+						<keyframe time="0.867000">
+						</keyframe>
+						<keyframe time="1.033000">
+						</keyframe>
+						<keyframe time="1.167000">
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="5">
+					<keyframes>
+						<keyframe time="0.000000">
+						</keyframe>
+						<keyframe time="0.133000">
+						</keyframe>
+						<keyframe time="0.267000">
+						</keyframe>
+						<keyframe time="0.500000">
+						</keyframe>
+						<keyframe time="0.633000">
+						</keyframe>
+						<keyframe time="0.867000">
+						</keyframe>
+						<keyframe time="1.033000">
+						</keyframe>
+						<keyframe time="1.167000">
+						</keyframe>
+					</keyframes>
+				</track>
+			</tracks>
+		</animation>
+	</animations>
+</skeleton>

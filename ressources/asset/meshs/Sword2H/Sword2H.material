@@ -1,0 +1,42 @@
+material Sword2H_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_icecrownraid_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2H_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_icecrownraid_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2H_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_icecrownraid_d_01.tga -1
+			}
+		}
+	}
+}

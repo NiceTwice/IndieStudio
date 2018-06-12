@@ -1,0 +1,7 @@
+# Room exemple
+
+# You can defined MAP but it's not considered in room
+# MAP, length=0, width=0, complexity=0
+
+CREATURE, x=150, y=-150, type=4
+CREATURE, x=-200, y=-200, type=4

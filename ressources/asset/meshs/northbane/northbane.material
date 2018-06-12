@@ -1,0 +1,140 @@
+material northbane_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEBONES.tga -1
+			}
+		}
+	}
+}
+material northbane_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEHEAD.tga -1
+			}
+		}
+	}
+}
+material northbane_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEBONES2.tga -1
+			}
+		}
+	}
+}
+material northbane_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEWING.tga -1
+			}
+		}
+	}
+}
+material northbane_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARMORREFLECT_RAINBOW.tga -1
+			}
+		}
+	}
+}
+material northbane_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEHEAD.tga -1
+			}
+		}
+	}
+}
+material northbane_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEWING.tga -1
+			}
+		}
+	}
+}
+material northbane_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEBONES2.tga -1
+			}
+		}
+	}
+}
+material northbane_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEHEAD.tga -1
+			}
+		}
+	}
+}
+material northbane_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTBANEWING.tga -1
+			}
+		}
+	}
+}

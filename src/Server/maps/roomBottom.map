@@ -1,0 +1,40 @@
+# MAP, length=0, width=0, complexity=0
+
+#Bordure bas gauche
+# South Gate
+WALL, x=0, y=1200
+WALL, x=-400, y=1200
+WALL, x=-800, y=1200
+WALL, x=-1200, y=1200
+WALL, x=-1200, y=800
+WALL, x=-1200, y=400
+# West Gate
+WALL, x=-1200, y=0
+
+#Bordure bas droite
+WALL, x=400, y=1200
+WALL, x=800, y=1200
+WALL, x=1200, y=1200
+WALL, x=1200, y=800
+WALL, x=1200, y=400
+# East Gate
+WALL, x=1200, y=0
+
+#Bordure haut gauche
+WALL, x=-400, y=-1200
+WALL, x=-800, y=-1200
+WALL, x=-1200, y=-1200
+WALL, x=-1200, y=-800
+WALL, x=-1200, y=-400
+
+#Bordure haut droite
+WALL, x=400, y=-1200
+WALL, x=800, y=-1200
+WALL, x=1200, y=-1200
+WALL, x=1200, y=-800
+WALL, x=1200, y=-400
+
+mob, x=500, y=900
+mob, x=-500, y=-500
+mob, x=500, y=-500
+mob, x=-500, y=900

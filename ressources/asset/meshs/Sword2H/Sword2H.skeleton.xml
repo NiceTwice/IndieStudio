@@ -1,0 +1,897 @@
+<skeleton>
+	<bones>
+		<bone id="0" name="0">
+			<position x="0.024151" y="0.000000" z="-0.002228" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="1" name="1">
+			<position x="1.458333" y="-0.154914" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="2" name="2">
+			<position x="1.485134" y="0.147991" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="3" name="3">
+			<position x="1.375984" y="-0.099434" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="4" name="4">
+			<position x="1.325103" y="-0.148012" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="5" name="5">
+			<position x="1.365804" y="-0.184245" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="6" name="6">
+			<position x="1.485134" y="0.177351" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="7" name="7">
+			<position x="1.319348" y="0.154718" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="8" name="8">
+			<position x="1.458333" y="-0.176146" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="9" name="9">
+			<position x="1.365804" y="-0.184245" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="10" name="10">
+			<position x="1.315852" y="-0.163607" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="11" name="11">
+			<position x="1.339146" y="0.123182" z="0.000049" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="12" name="12">
+			<position x="0.585817" y="-0.016555" z="0.021483" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="13" name="13">
+			<position x="0.361683" y="0.004648" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="14" name="14">
+			<position x="0.600680" y="0.005764" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="15" name="15">
+			<position x="0.861637" y="0.003820" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="16" name="16">
+			<position x="1.124158" y="0.001822" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="17" name="17">
+			<position x="1.481523" y="-0.063985" z="-0.003076" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="18" name="18">
+			<position x="1.510944" y="0.187819" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+		<bone id="19" name="19">
+			<position x="0.512496" y="0.109972" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+	</bones>
+	<bonehierarchy>
+	</bonehierarchy>
+	<animations>
+		<animation name="Stand" length="3.333000">
+			<tracks>
+				<track bone="1">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.600000">
+							<translate x="0.007007" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.500000">
+							<translate x="0.023050" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.000000">
+							<translate x="0.021248" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.167000">
+							<translate x="0.000664" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="2">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.867000">
+							<translate x="-0.019896" y="0.010764" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="3">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.867000">
+							<translate x="-0.008067" y="-0.007971" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="4">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.733000">
+							<translate x="0.005708" y="-0.013811" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="5">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.033000">
+							<translate x="0.000021" y="-0.000008" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.067000">
+							<translate x="0.000084" y="-0.000032" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.100000">
+							<translate x="0.000186" y="-0.000070" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.133000">
+							<translate x="0.000326" y="-0.000123" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.167000">
+							<translate x="0.000502" y="-0.000189" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.200000">
+							<translate x="0.000713" y="-0.000268" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.233000">
+							<translate x="0.000956" y="-0.000360" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.267000">
+							<translate x="0.001231" y="-0.000463" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.300000">
+							<translate x="0.001534" y="-0.000577" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.333000">
+							<translate x="0.001865" y="-0.000702" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.367000">
+							<translate x="0.002222" y="-0.000836" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.400000">
+							<translate x="0.002603" y="-0.000979" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.433000">
+							<translate x="0.003007" y="-0.001131" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.467000">
+							<translate x="0.003431" y="-0.001291" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.500000">
+							<translate x="0.003874" y="-0.001458" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.533000">
+							<translate x="0.004335" y="-0.001631" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.567000">
+							<translate x="0.004810" y="-0.001810" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.600000">
+							<translate x="0.005300" y="-0.001994" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.633000">
+							<translate x="0.005802" y="-0.002183" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.667000">
+							<translate x="0.006314" y="-0.002375" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.700000">
+							<translate x="0.006834" y="-0.002571" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.733000">
+							<translate x="0.007362" y="-0.002770" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.767000">
+							<translate x="0.007894" y="-0.002970" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.800000">
+							<translate x="0.008430" y="-0.003172" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.833000">
+							<translate x="0.008968" y="-0.003374" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.867000">
+							<translate x="0.009506" y="-0.003576" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.900000">
+							<translate x="0.010042" y="-0.003778" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.933000">
+							<translate x="0.010575" y="-0.003978" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.967000">
+							<translate x="0.011102" y="-0.004177" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.000000">
+							<translate x="0.011623" y="-0.004373" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.033000">
+							<translate x="0.012135" y="-0.004565" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.067000">
+							<translate x="0.012636" y="-0.004754" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.100000">
+							<translate x="0.013126" y="-0.004938" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.133000">
+							<translate x="0.013602" y="-0.005117" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.167000">
+							<translate x="0.014062" y="-0.005290" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.200000">
+							<translate x="0.014505" y="-0.005457" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.233000">
+							<translate x="0.014929" y="-0.005617" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.267000">
+							<translate x="0.015333" y="-0.005768" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.300000">
+							<translate x="0.015714" y="-0.005912" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.333000">
+							<translate x="0.016071" y="-0.006046" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.367000">
+							<translate x="0.016402" y="-0.006171" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.400000">
+							<translate x="0.016706" y="-0.006285" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.433000">
+							<translate x="0.016980" y="-0.006388" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.467000">
+							<translate x="0.017223" y="-0.006480" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.500000">
+							<translate x="0.017434" y="-0.006559" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.533000">
+							<translate x="0.017610" y="-0.006625" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.567000">
+							<translate x="0.017750" y="-0.006678" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.600000">
+							<translate x="0.017852" y="-0.006716" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.633000">
+							<translate x="0.017915" y="-0.006740" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.667000">
+							<translate x="0.017936" y="-0.006748" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.700000">
+							<translate x="0.017915" y="-0.006740" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.733000">
+							<translate x="0.017852" y="-0.006716" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.767000">
+							<translate x="0.017750" y="-0.006678" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.800000">
+							<translate x="0.017610" y="-0.006625" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.833000">
+							<translate x="0.017434" y="-0.006559" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.867000">
+							<translate x="0.017223" y="-0.006480" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.900000">
+							<translate x="0.016980" y="-0.006388" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.933000">
+							<translate x="0.016706" y="-0.006285" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.967000">
+							<translate x="0.016402" y="-0.006171" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.000000">
+							<translate x="0.016071" y="-0.006046" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.033000">
+							<translate x="0.015714" y="-0.005912" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.067000">
+							<translate x="0.015333" y="-0.005768" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.100000">
+							<translate x="0.014929" y="-0.005617" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.133000">
+							<translate x="0.014505" y="-0.005457" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.167000">
+							<translate x="0.014062" y="-0.005290" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.200000">
+							<translate x="0.013602" y="-0.005117" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.233000">
+							<translate x="0.013126" y="-0.004938" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.267000">
+							<translate x="0.012636" y="-0.004754" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.300000">
+							<translate x="0.012135" y="-0.004565" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.333000">
+							<translate x="0.011623" y="-0.004373" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.367000">
+							<translate x="0.011102" y="-0.004177" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.400000">
+							<translate x="0.010575" y="-0.003978" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.433000">
+							<translate x="0.010042" y="-0.003778" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.467000">
+							<translate x="0.009506" y="-0.003576" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.500000">
+							<translate x="0.008968" y="-0.003374" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.533000">
+							<translate x="0.008430" y="-0.003172" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.567000">
+							<translate x="0.007894" y="-0.002970" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.600000">
+							<translate x="0.007362" y="-0.002770" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.633000">
+							<translate x="0.006834" y="-0.002571" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.667000">
+							<translate x="0.006314" y="-0.002375" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.700000">
+							<translate x="0.005802" y="-0.002183" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.733000">
+							<translate x="0.005300" y="-0.001994" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.767000">
+							<translate x="0.004810" y="-0.001810" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.800000">
+							<translate x="0.004335" y="-0.001631" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.833000">
+							<translate x="0.003874" y="-0.001458" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.867000">
+							<translate x="0.003431" y="-0.001291" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.900000">
+							<translate x="0.003007" y="-0.001131" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.933000">
+							<translate x="0.002603" y="-0.000979" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.967000">
+							<translate x="0.002222" y="-0.000836" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.000000">
+							<translate x="0.001865" y="-0.000702" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.033000">
+							<translate x="0.001534" y="-0.000577" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.067000">
+							<translate x="0.001231" y="-0.000463" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.100000">
+							<translate x="0.000956" y="-0.000360" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.133000">
+							<translate x="0.000713" y="-0.000268" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.167000">
+							<translate x="0.000502" y="-0.000189" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.200000">
+							<translate x="0.000326" y="-0.000123" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.233000">
+							<translate x="0.000186" y="-0.000070" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.267000">
+							<translate x="0.000084" y="-0.000032" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.300000">
+							<translate x="0.000021" y="-0.000008" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="6">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.867000">
+							<translate x="-0.019896" y="0.010764" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="7">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.333000">
+							<translate x="0.005266" y="0.002783" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="8">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.367000">
+							<translate x="0.002938" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.367000">
+							<translate x="0.021686" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.733000">
+							<translate x="0.023603" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.133000">
+							<translate x="0.019178" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.033000">
+							<translate x="0.002028" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="9">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.033000">
+							<translate x="0.000021" y="-0.000008" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.067000">
+							<translate x="0.000084" y="-0.000032" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.100000">
+							<translate x="0.000186" y="-0.000070" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.133000">
+							<translate x="0.000326" y="-0.000123" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.167000">
+							<translate x="0.000502" y="-0.000189" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.200000">
+							<translate x="0.000713" y="-0.000268" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.233000">
+							<translate x="0.000956" y="-0.000360" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.267000">
+							<translate x="0.001231" y="-0.000463" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.300000">
+							<translate x="0.001534" y="-0.000577" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.333000">
+							<translate x="0.001865" y="-0.000702" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.367000">
+							<translate x="0.002222" y="-0.000836" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.400000">
+							<translate x="0.002603" y="-0.000979" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.433000">
+							<translate x="0.003007" y="-0.001131" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.467000">
+							<translate x="0.003431" y="-0.001291" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.500000">
+							<translate x="0.003874" y="-0.001458" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.533000">
+							<translate x="0.004335" y="-0.001631" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.567000">
+							<translate x="0.004810" y="-0.001810" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.600000">
+							<translate x="0.005300" y="-0.001994" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.633000">
+							<translate x="0.005802" y="-0.002183" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.667000">
+							<translate x="0.006314" y="-0.002375" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.700000">
+							<translate x="0.006834" y="-0.002571" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.733000">
+							<translate x="0.007362" y="-0.002770" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.767000">
+							<translate x="0.007894" y="-0.002970" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.800000">
+							<translate x="0.008430" y="-0.003172" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.833000">
+							<translate x="0.008968" y="-0.003374" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.867000">
+							<translate x="0.009506" y="-0.003576" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.900000">
+							<translate x="0.010042" y="-0.003778" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.933000">
+							<translate x="0.010575" y="-0.003978" z="-0.000000" />
+						</keyframe>
+						<keyframe time="0.967000">
+							<translate x="0.011102" y="-0.004177" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.000000">
+							<translate x="0.011623" y="-0.004373" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.033000">
+							<translate x="0.012135" y="-0.004565" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.067000">
+							<translate x="0.012636" y="-0.004754" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.100000">
+							<translate x="0.013126" y="-0.004938" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.133000">
+							<translate x="0.013602" y="-0.005117" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.167000">
+							<translate x="0.014062" y="-0.005290" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.200000">
+							<translate x="0.014505" y="-0.005457" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.233000">
+							<translate x="0.014929" y="-0.005617" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.267000">
+							<translate x="0.015333" y="-0.005768" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.300000">
+							<translate x="0.015714" y="-0.005912" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.333000">
+							<translate x="0.016071" y="-0.006046" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.367000">
+							<translate x="0.016402" y="-0.006171" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.400000">
+							<translate x="0.016706" y="-0.006285" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.433000">
+							<translate x="0.016980" y="-0.006388" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.467000">
+							<translate x="0.017223" y="-0.006480" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.500000">
+							<translate x="0.017434" y="-0.006559" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.533000">
+							<translate x="0.017610" y="-0.006625" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.567000">
+							<translate x="0.017750" y="-0.006678" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.600000">
+							<translate x="0.017852" y="-0.006716" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.633000">
+							<translate x="0.017915" y="-0.006740" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.667000">
+							<translate x="0.017936" y="-0.006748" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.700000">
+							<translate x="0.017915" y="-0.006740" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.733000">
+							<translate x="0.017852" y="-0.006716" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.767000">
+							<translate x="0.017750" y="-0.006678" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.800000">
+							<translate x="0.017610" y="-0.006625" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.833000">
+							<translate x="0.017434" y="-0.006559" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.867000">
+							<translate x="0.017223" y="-0.006480" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.900000">
+							<translate x="0.016980" y="-0.006388" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.933000">
+							<translate x="0.016706" y="-0.006285" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.967000">
+							<translate x="0.016402" y="-0.006171" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.000000">
+							<translate x="0.016071" y="-0.006046" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.033000">
+							<translate x="0.015714" y="-0.005912" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.067000">
+							<translate x="0.015333" y="-0.005768" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.100000">
+							<translate x="0.014929" y="-0.005617" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.133000">
+							<translate x="0.014505" y="-0.005457" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.167000">
+							<translate x="0.014062" y="-0.005290" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.200000">
+							<translate x="0.013602" y="-0.005117" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.233000">
+							<translate x="0.013126" y="-0.004938" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.267000">
+							<translate x="0.012636" y="-0.004754" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.300000">
+							<translate x="0.012135" y="-0.004565" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.333000">
+							<translate x="0.011623" y="-0.004373" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.367000">
+							<translate x="0.011102" y="-0.004177" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.400000">
+							<translate x="0.010575" y="-0.003978" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.433000">
+							<translate x="0.010042" y="-0.003778" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.467000">
+							<translate x="0.009506" y="-0.003576" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.500000">
+							<translate x="0.008968" y="-0.003374" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.533000">
+							<translate x="0.008430" y="-0.003172" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.567000">
+							<translate x="0.007894" y="-0.002970" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.600000">
+							<translate x="0.007362" y="-0.002770" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.633000">
+							<translate x="0.006834" y="-0.002571" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.667000">
+							<translate x="0.006314" y="-0.002375" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.700000">
+							<translate x="0.005802" y="-0.002183" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.733000">
+							<translate x="0.005300" y="-0.001994" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.767000">
+							<translate x="0.004810" y="-0.001810" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.800000">
+							<translate x="0.004335" y="-0.001631" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.833000">
+							<translate x="0.003874" y="-0.001458" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.867000">
+							<translate x="0.003431" y="-0.001291" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.900000">
+							<translate x="0.003007" y="-0.001131" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.933000">
+							<translate x="0.002603" y="-0.000979" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.967000">
+							<translate x="0.002222" y="-0.000836" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.000000">
+							<translate x="0.001865" y="-0.000702" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.033000">
+							<translate x="0.001534" y="-0.000577" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.067000">
+							<translate x="0.001231" y="-0.000463" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.100000">
+							<translate x="0.000956" y="-0.000360" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.133000">
+							<translate x="0.000713" y="-0.000268" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.167000">
+							<translate x="0.000502" y="-0.000189" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.200000">
+							<translate x="0.000326" y="-0.000123" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.233000">
+							<translate x="0.000186" y="-0.000070" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.267000">
+							<translate x="0.000084" y="-0.000032" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.300000">
+							<translate x="0.000021" y="-0.000008" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="10">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.733000">
+							<translate x="0.005708" y="-0.013811" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="11">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="2.300000">
+							<translate x="0.005498" y="0.002906" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+				<track bone="17">
+					<keyframes>
+						<keyframe time="0.000000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="1.733000">
+							<translate x="-0.030178" y="0.000000" z="-0.000000" />
+						</keyframe>
+						<keyframe time="3.333000">
+							<translate x="-0.000000" y="0.000000" z="-0.000000" />
+						</keyframe>
+					</keyframes>
+				</track>
+			</tracks>
+		</animation>
+	</animations>
+</skeleton>

@@ -1,0 +1,56 @@
+material SwordIllidanRight_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture GLAVE_1H_DUALBLADE_D_02.tga -1
+			}
+		}
+	}
+}
+material SwordIllidanRight_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARMORREFLECT4.tga -1
+			}
+		}
+	}
+}
+material SwordIllidanRight_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture GLAVE_1H_DUALBLADE_D_02.tga -1
+			}
+		}
+	}
+}
+material SwordIllidanRight_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Glave_1H_DualBlade_D_02.tga -1
+			}
+		}
+	}
+}

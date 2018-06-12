@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Imageset version="2" name="SpellIcons" imagefile="Spells.png" nativeHorzRes="1000" nativeVertRes="1000" autoScaled="vertical">
+	  <Image name="BowAttack" xPos="6" yPos="4" width="128" height="128" />
+	  <Image name="SlowArrow" xPos="148" yPos="5" width="128" height="128" />
+	  <Image name="BuffSpeed" xPos="284" yPos="5" width="128" height="128" />
+	  <Image name="daguerAttack" xPos="148" yPos="138" width="128" height="128" />
+	  <Image name="stealsHealth" xPos="420" yPos="139" width="128" height="128" />
+	  <Image name="shurikenAttack" xPos="284" yPos="138" width="128" height="128" />
+	  <Image name="FuriousAwakening" xPos="8" yPos="138" width="128" height="128" />
+	  <Image name="FireBall" xPos="7" yPos="270" width="128" height="128" />
+	  <Image name="MagicWand" xPos="148" yPos="271" width="128" height="128" />
+	  <Image name="armureBuff" xPos="7" yPos="405" width="128" height="128" />
+	  <Image name="heal" xPos="148" yPos="408" width="128" height="128" />
+	  <Image name="hitTheGround" xPos="7" yPos="541" width="128" height="128" />
+	  <Image name="axeAttack" xPos="146" yPos="542" width="128" height="128" />
+	  <Image name="YouWinScreen" xPos="287" yPos="275" width="597" height="205" />
+</Imageset>

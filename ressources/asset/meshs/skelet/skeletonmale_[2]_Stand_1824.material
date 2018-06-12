@@ -1,0 +1,42 @@
+material skeletonmale_[2]_Stand_1824_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material skeletonmale_[2]_Stand_1824_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material skeletonmale_[2]_Stand_1824_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}

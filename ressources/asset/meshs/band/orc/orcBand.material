@@ -1,0 +1,168 @@
+material orcBand_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDORCMALESKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDORCMALESKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDORCMALESKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDORCMALESKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDORCMALESKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDORCMALESKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ORCMALEHAIRSKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ORCMALEHAIRSKIN.tga -1
+			}
+		}
+	}
+}
+material orcBand_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_PLATE_RAIDWARRIOR_F_01BLACK.tga -1
+			}
+		}
+	}
+}
+material orcBand_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_PLATE_RAIDWARRIOR_F_01BLACK.tga -1
+			}
+		}
+	}
+}
+material orcBand_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAUREN_WOOD01.tga -1
+			}
+		}
+	}
+}
+material orcBand_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MICROPHONE01.tga -1
+			}
+		}
+	}
+}

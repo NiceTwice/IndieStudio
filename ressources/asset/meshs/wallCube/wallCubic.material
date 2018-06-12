@@ -1,0 +1,14 @@
+material wallCubic_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ZULAMANTROLLGATE01.tga -1
+			}
+		}
+	}
+}

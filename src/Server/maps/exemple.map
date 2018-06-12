@@ -1,0 +1,23 @@
+# File exemple
+
+# MAP must be defined just one time
+MAP, length=20000, width=20000, complexity=5
+
+# Room for wall and mob
+# The first arg is the name of the file without the extension
+# The x and y attribute set object coords to room._x + object._x and room._y + object._y 
+
+# Central room
+room, x=0, y=0
+
+# Left room
+roomLeft, x=-2800, y=0
+
+# Right room
+roomRight, x=2800, y=0
+
+# Top room
+roomTop, x=0, y=-2800
+
+# Bottom room
+roomBottom, x=0, y=2800

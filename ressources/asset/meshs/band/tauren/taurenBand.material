@@ -1,0 +1,658 @@
+material taurenBand_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_19
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_20
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_21
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_22
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_23
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_24
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_25
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_26
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_27
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN_EXTRA.tga -1
+			}
+		}
+	}
+}
+material taurenBand_28
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture EPICDRUMSTICKS01.tga -1
+			}
+		}
+	}
+}
+material taurenBand_29
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDHUNTER_F_01RED.tga -1
+			}
+		}
+	}
+}
+material taurenBand_30
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDHUNTER_F_01RED.tga -1
+			}
+		}
+	}
+}
+material taurenBand_31
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDHUNTER_F_01RED.tga -1
+			}
+		}
+	}
+}
+material taurenBand_32
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDHUNTER_F_01RED.tga -1
+			}
+		}
+	}
+}
+material taurenBand_33
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENMALESKIN.tga -1
+			}
+		}
+	}
+}
+material taurenBand_34
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENDRUMS01.tga -1
+			}
+		}
+	}
+}
+material taurenBand_35
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BAND_DRUMLOGO.tga -1
+			}
+		}
+	}
+}
+material taurenBand_36
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHIELD_HORDE_A_03.tga -1
+			}
+		}
+	}
+}
+material taurenBand_37
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARMORREFLECT3.tga -1
+			}
+		}
+	}
+}
+material taurenBand_38
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHIELD_HORDE_A_03.tga -1
+			}
+		}
+	}
+}
+material taurenBand_39
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHIELD_WHEEL_B_01.tga -1
+			}
+		}
+	}
+}
+material taurenBand_40
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BAND_BROWNSKULL01.tga -1
+			}
+		}
+	}
+}
+material taurenBand_41
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENSYMBOLS01.tga -1
+			}
+		}
+	}
+}
+material taurenBand_42
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ENERGYWEDGE.tga -1
+			}
+		}
+	}
+}
+material taurenBand_43
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAUREN_WOOD01.tga -1
+			}
+		}
+	}
+}
+material taurenBand_44
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture FT_GONGBASE01.tga -1
+			}
+		}
+	}
+}
+material taurenBand_45
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture DUST1_A.tga -1
+			}
+		}
+	}
+}
+material taurenBand_46
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture TAURENSYMBOLS01.tga -1
+			}
+		}
+	}
+}

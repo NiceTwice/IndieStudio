@@ -1,0 +1,378 @@
+material bloodelfBand_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDBLOODELFMALESKIN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture LSHOULDER_PLATE_RAIDPALADIN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture LSHOULDER_PLATE_RAIDPALADIN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture LSHOULDER_PLATE_RAIDPALADIN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture LSHOULDER_PLATE_RAIDPALADIN_F_01GLOW.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_PLATE_RAIDPALADIN_F_01BEAM.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_PLATE_RAIDPALADIN_F_01BEAM.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture HAIR00_00.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture HAIR00_00.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture HAIR00_00.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BLOODELFFEMALEEYEGLOWGREEN.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_19
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture RSHOULDER_PLATE_RAIDPALADIN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_20
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture RSHOULDER_PLATE_RAIDPALADIN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_21
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture RSHOULDER_PLATE_RAIDPALADIN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_22
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture RSHOULDER_PLATE_RAIDPALADIN_F_01GLOW.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_23
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture CAPE_PLATE_PVPALLIANCE_PLATE_A_01GOLD.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_24
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture CAPE_PLATE_PVPALLIANCE_PLATE_A_01GOLD.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_25
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BE_THRONE_01.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_26
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BE_CHAND_001.tga -1
+			}
+		}
+	}
+}
+material bloodelfBand_27
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BE_LUTE.tga -1
+			}
+		}
+	}
+}

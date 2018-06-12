@@ -1,0 +1,56 @@
+material Sword2HEpic_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Sword_2H_Epic_A_03ALT.tga -1
+			}
+		}
+	}
+}
+material Sword2HEpic_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Sword_2H_Epic_A_03ALT.tga -1
+			}
+		}
+	}
+}
+material Sword2HEpic_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture PVPRIDINGRAPTOREYEGLOWORANGE.tga -1
+			}
+		}
+	}
+}
+material Sword2HEpic_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Sword_2H_Epic_A_03ALT.tga -1
+			}
+		}
+	}
+}

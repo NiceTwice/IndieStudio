@@ -1,0 +1,14 @@
+<skeleton>
+	<bones>
+		<bone id="0" name="0">
+			<position x="-0.000000" y="-0.023185" z="-0.000000" />
+			<rotation angle="0">
+				<axis x="1" y="0" z="0" />
+			</rotation>
+		</bone>
+	</bones>
+	<bonehierarchy>
+	</bonehierarchy>
+	<animations>
+	</animations>
+</skeleton>

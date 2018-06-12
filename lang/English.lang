@@ -1,0 +1,23 @@
+38532
+Back=Back
+Connect=Connect
+Controls=Controls
+Create=Create
+CreateGame=Create Game
+Delete=Delete
+Edit=Edit
+EnterPassword=Server password (if it's required):
+EnterPort=Port:
+EnterProfilName=Enter new profile's name:
+EnterServerIP=Server Ip:
+Graphism=Graphism
+JoinGame=Join Game
+Language=Language
+LanguageError=File seems corrupted...
+New=New
+Options=Options
+Profile=Profile
+Quit=Quit
+Save=Save
+Sound=Sound
+Welcome=Welcome back

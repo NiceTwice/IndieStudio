@@ -1,0 +1,196 @@
+material trollBand_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTROLLMALE.tga -1
+			}
+		}
+	}
+}
+material trollBand_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTROLLMALE.tga -1
+			}
+		}
+	}
+}
+material trollBand_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTROLLMALE.tga -1
+			}
+		}
+	}
+}
+material trollBand_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTROLLMALE.tga -1
+			}
+		}
+	}
+}
+material trollBand_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTROLLMALE.tga -1
+			}
+		}
+	}
+}
+material trollBand_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTROLLMALE.tga -1
+			}
+		}
+	}
+}
+material trollBand_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDTROLLMALE.tga -1
+			}
+		}
+	}
+}
+material trollBand_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDSHAMAN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material trollBand_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDSHAMAN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material trollBand_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDSHAMAN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material trollBand_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_MAIL_RAIDSHAMAN_F_01BLUE.tga -1
+			}
+		}
+	}
+}
+material trollBand_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture HAIR00_00.tga -1
+			}
+		}
+	}
+}
+material trollBand_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BAND_MASKWOOD01.tga -1
+			}
+		}
+	}
+}
+material trollBand_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BAND_BONEPIECES01.tga -1
+			}
+		}
+	}
+}

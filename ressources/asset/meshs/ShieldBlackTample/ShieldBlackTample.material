@@ -1,0 +1,28 @@
+material ShieldBlackTample_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Shield_2H_OutlandRaid_D_06.tga -1
+			}
+		}
+	}
+}
+material ShieldBlackTample_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARMORREFLECT_RAINBOW.tga -1
+			}
+		}
+	}
+}

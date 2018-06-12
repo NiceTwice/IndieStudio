@@ -1,0 +1,112 @@
+material malygos_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS3.tga -1
+			}
+		}
+	}
+}
+material malygos_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS3.tga -1
+			}
+		}
+	}
+}
+material malygos_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS2.tga -1
+			}
+		}
+	}
+}
+material malygos_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS2.tga -1
+			}
+		}
+	}
+}
+material malygos_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS1.tga -1
+			}
+		}
+	}
+}
+material malygos_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS2.tga -1
+			}
+		}
+	}
+}
+material malygos_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS1.tga -1
+			}
+		}
+	}
+}
+material malygos_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture MALYGOS1.tga -1
+			}
+		}
+	}
+}

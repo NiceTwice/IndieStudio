@@ -1,0 +1,56 @@
+material abysalfire_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture InfernalSkin_Outland.tga -1
+			}
+		}
+	}
+}
+material abysalfire_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture InfernalSkin_Outland.tga -1
+			}
+		}
+	}
+}
+material abysalfire_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture InfernalSkin_Outland_02.tga -1
+			}
+		}
+	}
+}
+material abysalfire_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture InfernalSkin_Outland_02.tga -1
+			}
+		}
+	}
+}

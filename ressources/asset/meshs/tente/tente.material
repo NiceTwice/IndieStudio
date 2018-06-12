@@ -1,0 +1,28 @@
+material tente_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture HUMANTENTSDOOR.tga -1
+			}
+		}
+	}
+}
+material tente_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ELWYNNFENCE.tga -1
+			}
+		}
+	}
+}

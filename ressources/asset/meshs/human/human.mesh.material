@@ -1,0 +1,154 @@
+material human.mesh_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_25
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_30
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyHuman.tga -1
+			}
+		}
+	}
+}
+material human.mesh_51
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Hair03_08.tga -1
+			}
+		}
+	}
+}

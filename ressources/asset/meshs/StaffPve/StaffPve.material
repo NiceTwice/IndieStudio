@@ -1,0 +1,84 @@
+material StaffPve_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture stave_2h_pvehorde_d_02dark.tga -1
+			}
+		}
+	}
+}
+material StaffPve_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture stave_2h_pvehorde_d_02dark.tga -1
+			}
+		}
+	}
+}
+material StaffPve_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture stave_2h_pvehorde_d_02dark.tga -1
+			}
+		}
+	}
+}
+material StaffPve_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture stave_2h_pvehorde_d_02dark.tga -1
+			}
+		}
+	}
+}
+material StaffPve_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture stave_2h_pvehorde_d_02dark.tga -1
+			}
+		}
+	}
+}
+material StaffPve_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture stave_2h_pvehorde_d_02dark.tga -1
+			}
+		}
+	}
+}

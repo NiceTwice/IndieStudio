@@ -1,0 +1,140 @@
+material orc_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}
+material orc_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}
+material orc_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}
+material orc_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}
+material orc_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}
+material orc_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}
+material orc_18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}
+material orc_30
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Hair00_08.tga -1
+			}
+		}
+	}
+}
+material orc_34
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Hair00_08.tga -1
+			}
+		}
+	}
+}
+material orc_45
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BodyOrc.tga -1
+			}
+		}
+	}
+}

@@ -1,0 +1,112 @@
+material gnome_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material gnome_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material gnome_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material gnome_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material gnome_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material gnome_21
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Body.tga -1
+			}
+		}
+	}
+}
+material gnome_35
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Hair00_09.tga -1
+			}
+		}
+	}
+}
+material gnome_44
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Hair00_09.tga -1
+			}
+		}
+	}
+}

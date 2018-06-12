@@ -1,0 +1,350 @@
+material undeadBand_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BANDUNDEADMALESKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture NIGHTELFMALEEYEGLOW.tga -1
+			}
+		}
+	}
+}
+material undeadBand_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SCOURGEFEMALEHAIRSKIN.tga -1
+			}
+		}
+	}
+}
+material undeadBand_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture CAPE_CLOTH_A_02ORANGE.tga -1
+			}
+		}
+	}
+}
+material undeadBand_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture CAPE_CLOTH_A_02ORANGE.tga -1
+			}
+		}
+	}
+}
+material undeadBand_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture LIGHTNINGVIOLET_3LG.tga -1
+			}
+		}
+	}
+}
+material undeadBand_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture HELM_ROBE_RAIDMAGE_F_01GLOWALPHA2.tga -1
+			}
+		}
+	}
+}
+material undeadBand_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_ROBE_RAIDMAGE_F_01RED.tga -1
+			}
+		}
+	}
+}
+material undeadBand_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_ROBE_RAIDMAGE_F_01GLOWALPHA.tga -1
+			}
+		}
+	}
+}
+material undeadBand_16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_ROBE_RAIDMAGE_F_01RED.tga -1
+			}
+		}
+	}
+}
+material undeadBand_17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture GLOWVIOLET32.tga -1
+			}
+		}
+	}
+}
+material undeadBand_18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_ROBE_RAIDMAGE_F_01RED.tga -1
+			}
+		}
+	}
+}
+material undeadBand_19
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SHOULDER_ROBE_RAIDMAGE_F_01RED.tga -1
+			}
+		}
+	}
+}
+material undeadBand_20
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture CAVEBONE01.tga -1
+			}
+		}
+	}
+}
+material undeadBand_21
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture WAEPONPAGE01.tga -1
+			}
+		}
+	}
+}
+material undeadBand_22
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture JLO_UNDEADZIGG_TRIM01.tga -1
+			}
+		}
+	}
+}
+material undeadBand_23
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture JLO_UNDEADZIGG_TRIM05.tga -1
+			}
+		}
+	}
+}
+material undeadBand_24
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BE_LUTE.tga -1
+			}
+		}
+	}
+}

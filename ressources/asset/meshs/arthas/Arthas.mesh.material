@@ -1,0 +1,238 @@
+material Arthas.mesh_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BEAM_SMOKEGREY.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture T_VFX_FIRE_ANIM02_128_FULL_DESAT_BLUE.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture T_VFX_FIRE_ANIM02_128_FULL_DESAT_BLUE.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_01.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_01.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_01.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_02.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_02.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARTHASLICHKING_02.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_10
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_11
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture ARMORREFLECT3.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}
+material Arthas.mesh_16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture SWORD_2H_FROSTMOURNE_ARTHAS2.tga -1
+			}
+		}
+	}
+}

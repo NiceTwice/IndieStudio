@@ -1,0 +1,42 @@
+material BowSunwell_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Bow_1H_Sunwell_D_01.tga -1
+			}
+		}
+	}
+}
+material BowSunwell_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Bow_1H_Sunwell_D_01.tga -1
+			}
+		}
+	}
+}
+material BowSunwell_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture Bow_1H_Sunwell_D_01Glow.tga -1
+			}
+		}
+	}
+}

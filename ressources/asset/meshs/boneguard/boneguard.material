@@ -1,0 +1,70 @@
+material boneguard_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BONEGUARD.tga -1
+			}
+		}
+	}
+}
+material boneguard_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture BONEGUARD.tga -1
+			}
+		}
+	}
+}
+material boneguard_2
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				scene_blend alpha_blend
+				texture T_VFX_FLARE05_32.tga -1
+			}
+		}
+	}
+}
+material boneguard_3
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				scene_blend alpha_blend
+				texture T_VFX_FLARE05_32.tga -1
+			}
+		}
+	}
+}
+material boneguard_11
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				scene_blend alpha_blend
+				texture T_VFX_FLARE05_A64.tga -1
+			}
+		}
+	}
+}

@@ -1,0 +1,98 @@
+material Sword2HPVP_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_pvehorde_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2HPVP_1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_pvehorde_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2HPVP_2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_pvehorde_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2HPVP_3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_pvehorde_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2HPVP_4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_pvehorde_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2HPVP_5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_pvehorde_d_01.tga -1
+			}
+		}
+	}
+}
+material Sword2HPVP_6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7
+			texture_unit
+			{
+				texture sword_2h_pvehorde_d_01.tga -1
+			}
+		}
+	}
+}
